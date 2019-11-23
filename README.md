@@ -4,10 +4,10 @@ Gaussian Bernoulli RBM based on Pytorch Lib
 
 Files. .
 .
-├── gbrbm_example.py
-├── gbrbm.py
-├── LICENSE
-├── README.md
+├── gbrbm_example.py \n
+├── gbrbm.py \n
+├── LICENSE \n
+├── README.md \n
 └── utils.py
 
 
