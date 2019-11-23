@@ -2,8 +2,8 @@
 Gaussian Bernoulli RBM based on Pytorch Lib
 (Original RBM is referred from https://github.com/GabrielBianconi/pytorch-rbm)
 
-Files. .
-.
+Files. .<br/>
+.<br/>
 ├── gbrbm_example.py <br/>
 ├── gbrbm.py <br/>
 ├── LICENSE <br/>
