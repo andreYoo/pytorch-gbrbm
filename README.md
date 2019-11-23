@@ -3,11 +3,13 @@ Gaussian Bernoulli RBM based on Pytorch Lib
 (Original RBM is referred from https://github.com/GabrielBianconi/pytorch-rbm)
 
 Files. .
-├── gbrbm_example.py #Example code using MNIST dataset (including download code)
-├── gbrbm.py # GBRBM network code
-├── LICENSE 
+.
+├── gbrbm_example.py
+├── gbrbm.py
+├── LICENSE
 ├── README.md
-└── utils.py # Bernoulli sampling, gaussian sampling code.
+└── utils.py
+
 
 
 How to run
