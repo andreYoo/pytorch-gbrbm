@@ -33,3 +33,6 @@ Epoch Error (epoch=9): 1962103.7500\
 
 dependendies. 
 Python 3.6
+
+
+Multi-layered version will be updated. 
